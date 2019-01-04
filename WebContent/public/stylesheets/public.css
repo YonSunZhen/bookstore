@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
+body,a,ul,li,dl,dd,img{
+  margin:0px;
+  padding:0px;
+  list-style-type: none;
+  list-style: none;
+  border:0px;     
+}
+.clear{
+  clear: both;
+}
+.hide{
+  display:none;
+}

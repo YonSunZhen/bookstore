@@ -1,0 +1,16 @@
+.layui-body {
+    overflow: hidden;/*属性规定当内容溢出元素框时发生的事情-隐藏*/
+    border-top: 5px solid #1AA094 ;
+    border-left: 2px solid #1AA094;
+    background: #fff;
+}
+.footer{
+   text-align: center;
+   border-left: 2px solid #1AA094;
+}
+.iframe {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border: none;
+}
